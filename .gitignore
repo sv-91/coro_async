@@ -1,0 +1,11 @@
+server
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+build/
+.kdev4/
+tester.kdev4
+cmake-build-debug/
+.idea/workspace.xml
+
